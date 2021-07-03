@@ -9,3 +9,9 @@ div{
    height: 48px;
    border: 1px solid black;
 }
+.black{
+    background: black;
+}
+.white{
+    background: white;
+}
